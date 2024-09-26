@@ -1,1 +1,2 @@
 # chatbot
+A chatbot application that facilitates person-to-person communication acts as a virtual intermediary, enabling users to chat with each other in real time. The chatbot assists by guiding conversations, offering suggestions, or automating certain responses. It may enhance the interaction by providing smart replies, reminders, or automated moderation, ensuring smooth and efficient communication between the two users.
